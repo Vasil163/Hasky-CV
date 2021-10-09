@@ -7,6 +7,25 @@ h1 {
     font-family: 'Rampart One', cursive;
     color: #506D84;
 }
+h2 {
+    font-family: 'Rampart One', cursive;
+}
 img {
     border-radius: 100%;
+}
+div {
+    padding: 20px;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkslategrey;
+    border-width: 5px;
+    width: 30%;
+}  
+a:hover {
+    background-color: gainsboro;
+}
+.table {
+    border-style: hidden;
 }
