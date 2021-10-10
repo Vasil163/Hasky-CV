@@ -1,5 +1,7 @@
 body {
+     /*Почему-то не работает*/
     background-color: #C1FFD7;
+    background-image: url("Images/Hasya.jpg");
     font-family: 'RocknRoll One', sans-serif;
     color: #506D84;
 }
