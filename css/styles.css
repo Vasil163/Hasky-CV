@@ -1,7 +1,7 @@
 body {
-     /*Почему-то не работает*/
     background-color: #C1FFD7;
-    background-image: url("Images/Hasya.jpg");
+    background-image: url("../Images/background2.jpg"); /*../ поднимает на 1 уровень поиск, либо нужно прописать
+     путь полностью, начиная с диска С*/
     font-family: 'RocknRoll One', sans-serif;
     color: #506D84;
 }
@@ -26,8 +26,11 @@ hr {
     width: 30%;
 }  
 a:hover {
-    background-color: gainsboro;
+    background-color: rgb(15, 201, 15);
 }
 .table {
     border-style: hidden;
+}
+.a {
+    font-size: 2rem;
 }
